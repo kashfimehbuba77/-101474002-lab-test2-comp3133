@@ -1,0 +1,25 @@
+.filter-box {
+  width: 250px;
+  margin-bottom: 20px;
+}
+
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 20px;
+}
+
+.character-card {
+  cursor: pointer;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.character-card:hover {
+  transform: scale(1.03);
+}
+
+img {
+  height: 300px;
+  object-fit: cover;
+}
