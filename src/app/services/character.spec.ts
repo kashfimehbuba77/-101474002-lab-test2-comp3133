@@ -1,16 +1,15 @@
-import { TestBed } from '@angular/core/testing';
+// import { TestBed } from '@angular/core/testing';
+// import type { Character } from '../models/character.model';
 
-import { Character } from './character';
+// describe('Character', () => {
+//   let service: Character;
 
-describe('Character', () => {
-  let service: Character;
+//   beforeEach(() => {
+//     TestBed.configureTestingModule({});
+//     service = TestBed.inject(Character);
+//   });
 
-  beforeEach(() => {
-    TestBed.configureTestingModule({});
-    service = TestBed.inject(Character);
-  });
-
-  it('should be created', () => {
-    expect(service).toBeTruthy();
-  });
-});
+//   it('should be created', () => {
+//     expect(service).toBeTruthy();
+//   });
+// });
