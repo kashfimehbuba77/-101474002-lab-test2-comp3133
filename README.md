@@ -1,6 +1,6 @@
 # 101474002 Lab Test 2 Comp3133
 
-## Development server
+## Local Deployment
 
 To start a local development server, run:
 
@@ -10,7 +10,11 @@ ng serve
 
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
-To run the vercel deployment: https://101474002-lab-test2-comp3133.vercel.app/characters
+## Vercel Deployment
+
+To run the vercel deployment: 
+
+https://101474002-lab-test2-comp3133.vercel.app/characters
 
 ## App Description
 
