@@ -28,6 +28,52 @@ Users can click on any character to view a detailed profile page containing addi
 
 ## App Screenshots
 
+**All Characters**
+
+![All Characters](screenshots/All_Characters.png)
+
+**All Characters Continued**
+
+![All Characters Continued](screenshots/All_Characters_Continued.png)
+
+**Filter_by_House**
+
+![Filter by House](screenshots/Filter_by_House.png)
+
+**Filter by Gryffindor**
+
+![Gryffindor Filter](screenshots/Gryffindor.png)
+
+**Filter by Slytherin**
+
+![Slytherin Filter](screenshots/Slytherin.png)
+
+**Filter by Ravenclaw**
+
+![Ravenclaw Filter](screenshots/Ravenclaw.png)
+
+**Filter by Hufflepuff**
+
+![Hufflepuff Filter](screenshots/Hufflepuff.png)
+
+**Character Details**
+
+![Draco Malfoy](screenshots/Draco_Malfoy.png)
+
+![Mrs. Norris](screenshots/Mrs_Norris.png)
+
+![Harry Potter](screenshots/Harry_Potter.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
