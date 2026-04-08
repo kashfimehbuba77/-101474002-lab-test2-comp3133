@@ -1,6 +1,4 @@
-# 101474002LabTest2Comp3133
-
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.3.
+# 101474002 Lab Test 2 Comp3133
 
 ## Development server
 
@@ -12,48 +10,22 @@ ng serve
 
 Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
-## Code scaffolding
+To run the vercel deployment: https://101474002-lab-test2-comp3133.vercel.app/characters
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## App Description
 
-```bash
-ng generate component component-name
-```
+This is a Harry Potter Character Explorer Angular web application which allows user to browse and interact with data from the Harry Potter API.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## App Features
 
-```bash
-ng generate --help
-```
+The app displays a list of characters with their name, house, and image, and also provides a house-based filter so users can view characters from specific Hogwarts houses such as Gryffindor, Slytherin, Hufflepuff, and Ravenclaw.
 
-## Building
+Users can click on any character to view a detailed profile page containing additional information such as species, ancestry, wizard status, wand details, actor name, and character image.
 
-To build the project run:
+## App Screenshots
 
-```bash
-ng build
-```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
 
-## Running unit tests
 
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
 
-```bash
-ng test
-```
 
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
